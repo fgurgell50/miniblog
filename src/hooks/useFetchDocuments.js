@@ -63,7 +63,7 @@ import {
             }
         
             loadData();
-          }, [docCollection, search, uid, cancelled]);
+          }, [docCollection, documents, search, uid, cancelled]);
         
           console.log(documents);
         
