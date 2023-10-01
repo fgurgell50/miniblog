@@ -58,12 +58,11 @@ import {
                 console.log(error);
                 setError(error.message);
               }
-        
               setLoading(false);
             }
         
             loadData();
-          }, [docCollection, documents, search, uid, cancelled]);
+          }, [docCollection, search, uid, cancelled]);
         
           console.log(documents);
         
