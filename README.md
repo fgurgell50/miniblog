@@ -1,5 +1,5 @@
 # miniblog
 React.js
 Firebase
-Hoohs
+Hooks
 Auth
