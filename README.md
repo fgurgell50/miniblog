@@ -1,4 +1,5 @@
 # miniblog
-# React.js
-# Firebase
-# hoohs
+React.js
+Firebase
+Hoohs
+Auth
