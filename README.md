@@ -1,1 +1,3 @@
 # miniblog
+React.js
+Firebase
